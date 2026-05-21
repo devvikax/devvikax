@@ -1,40 +1,64 @@
-# Hey there, I'm Vikas 👋
-
-B.Tech CSE student who genuinely enjoys building things and figuring out how they work under the hood.
-
----
-
-### 🧠 What I'm into right now
-- Learning **Python** properly — not just syntax, but the *why* behind it
-- Exploring **AI/ML** — from classical models to LLMs and RAG systems
-- Sharpening my **DSA** skills one problem at a time on LeetCode
+# 💫 About Me
+Hey, I'm Vikas — a B.Tech CSE student with a genuine curiosity for how things work, not just how to use them.<br>
+Right now I'm focused on building a strong foundation in Python, diving into AI/ML, and sharpening my problem-solving skills through DSA. I'm the kind of person who'd rather understand something deeply than rush through it.<br>
+I'm on a slow but intentional path toward becoming an AI/ML engineer — learning by building, breaking things, and figuring out why they broke. Every project I work on teaches me something the tutorials don't.<br>
+When I'm not coding, I'm probably reading about something tech-related or planning the next thing I want to build.<br>
+I'm open to internships, collaborations, or just connecting with people who are as excited about this field as I am.
 
 ---
 
-### 🚀 What I'm building towards
-I'm on a journey from student → AI/ML engineer. Currently in the foundation phase — writing cleaner code, understanding data structures deeply, and slowly getting my hands dirty with machine learning.
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devvikax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devvikax)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasp.tera@gmail.com)
 
 ---
 
-### 🛠️ Tech I'm working with
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+## 💻 Tech Stack
+
+**Languages**<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Databases & DevOps**<br>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**Hosting & Platforms**<br>
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+**Design Tools**<br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
-### 📌 A few things about me
-- 🎓 CSE undergrad, figuring things out one commit at a time
-- 💡 I like understanding *how* things work, not just *that* they work
-- 🔍 Currently exploring: AI agents, LLMs, and the Python ecosystem
-- 📈 Open to opportunities — internships, collabs, or just a good conversation
+## 📊 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=devvikax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=devvikax&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=devvikax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-### 📫 Let's connect
-Got a cool project, an idea, or just want to talk tech? Feel free to reach out!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devvikax&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
