@@ -1,5 +1,5 @@
-# 💫 About Me
-Hey, I'm Vikas — a B.Tech CSE student with a genuine curiosity for how things work, not just how to use them.<br>
+# Hey, I'm Vikas
+A B.Tech CSE student with a genuine curiosity for how things work, not just how to use them.<br>
 Right now I'm focused on building a strong foundation in Python, diving into AI/ML, and sharpening my problem-solving skills through DSA. I'm the kind of person who'd rather understand something deeply than rush through it.<br>
 I'm on a slow but intentional path toward becoming an AI/ML engineer — learning by building, breaking things, and figuring out why they broke. Every project I work on teaches me something the tutorials don't.<br>
 When I'm not coding, I'm probably reading about something tech-related or planning the next thing I want to build.<br>
