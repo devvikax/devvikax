@@ -1,54 +1,40 @@
-# 💫 About Me
+# Hey there, I'm Vikas 👋
 
-🔭 **I’m currently working on**  
-Building full-stack web applications (MERN) and developing **Campus Mitr** — a student-focused platform with scheduling, notes, and services.
-
----
-
-👯 **I’m looking to collaborate on**  
-Real-world projects in web development or AI — especially products that solve actual problems.
+B.Tech CSE student who genuinely enjoys building things and figuring out how they work under the hood.
 
 ---
 
-🤝 **I’m looking for help with**  
-System design, backend architecture, and integrating AI into real applications.
+### 🧠 What I'm into right now
+- Learning **Python** properly — not just syntax, but the *why* behind it
+- Exploring **AI/ML** — from classical models to LLMs and RAG systems
+- Sharpening my **DSA** skills one problem at a time on LeetCode
 
 ---
 
-🌱 **I’m currently learning**  
-JavaScript (deep), React, Node.js, MongoDB/PostgreSQL, along with DSA and AI integration (Python + APIs).
+### 🚀 What I'm building towards
+I'm on a journey from student → AI/ML engineer. Currently in the foundation phase — writing cleaner code, understanding data structures deeply, and slowly getting my hands dirty with machine learning.
 
 ---
 
-💬 **Ask me about**  
-Frontend development, beginner full-stack journey, and building projects from scratch.
+### 🛠️ Tech I'm working with
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-⚡ **Fun fact**  
-I’m turning consistency from my biggest weakness into my biggest strength.
+### 📌 A few things about me
+- 🎓 CSE undergrad, figuring things out one commit at a time
+- 💡 I like understanding *how* things work, not just *that* they work
+- 🔍 Currently exploring: AI agents, LLMs, and the Python ecosystem
+- 📈 Open to opportunities — internships, collabs, or just a good conversation
 
+---
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nott.vikas) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@devvikax) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasp.tera@gmail.com)
+### 📫 Let's connect
+Got a cool project, an idea, or just want to talk tech? Feel free to reach out!
 
-
-## 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=devvikax&theme=dark&hide_border=false)
-![](https://streak-stats.demolab.com/?user=devvikax&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=devvikax&theme=dark&hide_border=false&layout=compact)
+> *"First, solve the problem. Then, write the code."* — John Johnson
