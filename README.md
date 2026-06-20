@@ -50,7 +50,6 @@ I'm open to internships, collaborations, or just connecting with people who are 
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=devvikax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=devvikax&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devvikax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
