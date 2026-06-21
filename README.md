@@ -1,11 +1,3 @@
-<div align="center">
-
-<!-- Hero Banner -->
-<img src="assets/hero_banner.png" alt="Vikas Patel - Hero Banner" width="100%"/>
-
-<br/>
-<br/>
-
 <!-- Visitor Counter & Social Badges -->
 [![Profile Views](https://komarev.com/scrapers/github-profile-visitor-counter/?username=devvikax&label=PROFILE+VIEWS&color=0070f3&style=flat-square)](https://github.com/devvikax)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/devvikax)
